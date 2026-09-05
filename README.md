@@ -1,8 +1,8 @@
-# Antigravity Migration Tools 🚀
+# Antigravity Migration Tools 
 
 Conjunto de scripts simples en Python para exportar e importar sin esfuerzo el estado, historial y conocimiento de tus sesiones de **Antigravity**. Ideal para migrar tu entorno de trabajo de un equipo a otro sin perder tus conversaciones o configuraciones.
 
-## 📦 Características
+##  Características
 
 - **Cero dependencias:** Creado utilizando únicamente la Librería Estándar de Python (no requiere `pip install`, ni entornos virtuales).
 - **Copias de seguridad seguras:** El script de importación hace automáticamente un respaldo de la configuración existente en el equipo destino antes de sobreescribir los datos.
@@ -10,7 +10,7 @@ Conjunto de scripts simples en Python para exportar e importar sin esfuerzo el e
 
 ---
 
-## 🛠️ Cómo utilizarlo
+##  Cómo utilizarlo
 
 ### 1. Exportar datos (Equipo de Origen)
 
